@@ -1,4 +1,4 @@
-a=int(input)
-b=int(input)
+a=5
+b=10
 c=a+b
 print(c)
